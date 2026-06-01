@@ -27,10 +27,10 @@ export default function Footer() {
               <p>
                 <span className="font-medium">Email:</span>{" "}
                 <a
-                  href="mailto:info@medicalbillersandcoders.com"
+                  href="mailto:info@rightbillingsolutions.com"
                   className="hover:text-black transition-colors"
                 >
-                  info@medicalbillersandcoders.com
+                  info@rightbillingsolutions.com
                 </a>
               </p>
               <p>
