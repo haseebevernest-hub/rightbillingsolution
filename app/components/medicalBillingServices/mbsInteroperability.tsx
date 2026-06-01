@@ -16,7 +16,7 @@ export default function MBSInteroperability() {
             Medical Billing Services Built for EHR Interoperability
           </h2>
           <p className="text-slate-600 text-lg">
-<b>Smart Billing Solution</b> integrates seamlessly into your workflow, ensuring <b>data integrity</b> and providing <b>real-time visibility. </b>          </p>
+<b>Right Billing Solution</b> integrates seamlessly into your workflow, ensuring <b>data integrity</b> and providing <b>real-time visibility. </b>          </p>
         </div>
 
         <div className="grid md:grid-cols-3 gap-8">

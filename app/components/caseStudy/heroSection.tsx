@@ -20,7 +20,8 @@ export default function HeroSection() {
         transition={{ delay: 0.2, duration: 0.6 }}
         className="mt-6 text-lg text-gray-600 max-w-3xl mx-auto leading-relaxed"
       >
-        At <span className="font-semibold text-green-600">Smart Billing Solutions (SBS)</span>, 
+      
+        At <span className="font-semibold text-green-600">Right Billing Solutions (SBS)</span>, 
         we partner with healthcare organizations to solve operational challenges 
         and drive measurable growth.
       </motion.p>

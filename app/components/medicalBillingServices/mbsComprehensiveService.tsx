@@ -47,7 +47,7 @@ export default function MBSComprehensiveServices() {
             Comprehensive Medical Billing Services for Modern Healthcare Organizations
           </h2>
           <p className="text-slate-600 text-lg">
-Standard vendors simply submit claims; <b>Smart Billing Solution</b> enforces <b>revenue integrity. </b>         </p>
+Standard vendors simply submit claims; <b>Right Billing Solution</b> enforces <b>revenue integrity. </b>         </p>
         </div>
 
         <div className="grid md:grid-cols-2 gap-8">

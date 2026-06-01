@@ -12,7 +12,7 @@ export default function CTA() {
         viewport={{ once: true }}
         className="text-3xl md:text-4xl font-bold"
       >
-        Experience the Smart Billing Solution Standard
+        Experience the Right Billing Solution Standard
       </motion.h2>
 
       <p className="mt-6 text-lg opacity-90">

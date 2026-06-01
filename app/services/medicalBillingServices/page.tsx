@@ -7,7 +7,7 @@ import MBSComprehensiveServices from "@/app/components/medicalBillingServices/mb
 
 
 export const metadata = {
-  title: "Medical Billing Services | Smart Billing Solution",
+  title: "Medical Billing Services | Right Billing Solution",
   description:
     "Full-cycle medical billing services optimized for enterprise revenue performance.",
 };

@@ -7,7 +7,7 @@ export default function MBSHero() {
         </h1>
 
         <p className="text-lg md:text-xl max-w-3xl mx-auto text-white/90">
-          <b>Smart Billing Solution</b> delivers end-to-end <b> Revenue Cycle Management (RCM)</b> for multi-specialty
+          <b>Right Billing Solution</b> delivers end-to-end <b> Revenue Cycle Management (RCM)</b> for multi-specialty
            groups, <b>Ambulatory Surgery Centers (ASCs)</b>, and hospital systems,
            focused on <b>payer variance detection, denial root-cause analysis</b>, and maximizing <b>net realized revenue</b>.
         </p>

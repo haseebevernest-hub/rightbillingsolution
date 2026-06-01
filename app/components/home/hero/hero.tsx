@@ -20,7 +20,7 @@ export default function Hero() {
             <p className="mt-6 text-lg text-gray-700 leading-relaxed">
               In today’s healthcare landscape, <b>a 98% clean claim rate is no longer enough.</b>{" "}
               <br /> <br />
-              At <b className="text-blue-600">Smart Billing Solutions</b>, we go beyond surface-level metrics. We partner with multi-specialty medical groups and health systems to deliver <b>AI-powered Revenue Integrity solutions</b> designed to strengthen financial performance, increase realized yield, and protect EBITDA.
+              At <b className="text-blue-600">Right Billing Solutions</b>, we go beyond surface-level metrics. We partner with multi-specialty medical groups and health systems to deliver <b>AI-powered Revenue Integrity solutions</b> designed to strengthen financial performance, increase realized yield, and protect EBITDA.
             </p>
           </div>
 

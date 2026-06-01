@@ -21,7 +21,7 @@ Shifting the RCM Paradigm: From Volume to Revenue Yield        </motion.h2>
           viewport={{ once: true }}
           className="mt-6 text-slate-600 text-lg leading-relaxed"
         >
-          Most <b>RCM companies</b> focus on volume. <b> Smart Billing Solution</b> focuses on
+          Most <b>RCM companies</b> focus on volume. <b> Right Billing Solution</b> focuses on
            <b>revenue yield</b>. Our Total Revenue Integrity model integrates <b> clinical coding expertise, predictive denial analytics,
            </b>and <b>contract intelligence</b> to help ensure every contracted dollar is fully collected.
         </motion.p>

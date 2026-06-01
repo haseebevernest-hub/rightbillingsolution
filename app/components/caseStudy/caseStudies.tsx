@@ -6,12 +6,12 @@ const caseStudies = [
   {
     title: "Internal Medicine",
     description:
-      "Smart Billing Solutions successfully optimized the revenue cycle management process for an independent internal medicine practice in Fort Myers, Florida, USA. Through improved coding accuracy, denial management, and workflow efficiency, the practice experienced enhanced cash flow and operational clarity.",
+      "Right Billing Solutions successfully optimized the revenue cycle management process for an independent internal medicine practice in Fort Myers, Florida, USA. Through improved coding accuracy, denial management, and workflow efficiency, the practice experienced enhanced cash flow and operational clarity.",
   },
   {
     title: "Optometry Billing Services",
     description:
-      "Smart Billing Solutions transformed the end-to-end billing operations for an optometry center in Texas. By implementing structured processes and targeted revenue cycle strategies, we significantly improved claim acceptance rates and reduced payment delays.",
+      "Right Billing Solutions transformed the end-to-end billing operations for an optometry center in Texas. By implementing structured processes and targeted revenue cycle strategies, we significantly improved claim acceptance rates and reduced payment delays.",
   },
 ];
 

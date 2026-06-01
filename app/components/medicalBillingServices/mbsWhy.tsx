@@ -32,10 +32,10 @@ export default function MBSWhySection() {
 
         <div className="text-center max-w-3xl mx-auto mb-14">
           <h2 className="text-3xl font-bold mb-4">
-            Why Multi-Specialty Groups Choose Smart Billing Solution?
+            Why Multi-Specialty Groups Choose Right Billing Solution?
           </h2>
           <p className="text-slate-600 text-lg">
-Traditional billing firms focus on volume, while <b> Smart Billing Solution </b> emphasizes <b> Net Realized Revenue. </b>         </p>
+Traditional billing firms focus on volume, while <b> Right Billing Solution </b> emphasizes <b> Net Realized Revenue. </b>         </p>
         </div>
 
         <div className="grid md:grid-cols-3 gap-8">

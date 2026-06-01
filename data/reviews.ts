@@ -15,7 +15,7 @@ export const reviews: Review[] = [
     company: "",
     avatar: "/review/femaleDoc.jpg",
     review:
-      "Smart Billing Solutions has transformed our revenue cycle. Their accuracy and promptness in handling claims have significantly reduced our administrative stress.",
+      "Right Billing Solutions has transformed our revenue cycle. Their accuracy and promptness in handling claims have significantly reduced our administrative stress.",
   },
   {
     id: 2,
@@ -24,7 +24,7 @@ export const reviews: Review[] = [
     company: "",
     avatar: "/review/maleDoc.jpg",
     review:
-      "The team at Smart Billing Solutions is responsive, knowledgeable, and reliable. They ensure our billing processes are smooth and error-free.",
+      "The team at Right Billing Solutions is responsive, knowledgeable, and reliable. They ensure our billing processes are smooth and error-free.",
   },
   {
     id: 3,
@@ -33,6 +33,6 @@ export const reviews: Review[] = [
     company: "",
     avatar: "/review/maleDoc.jpg",
     review:
-      "Outsourcing our billing to Smart Billing Solutions was the best decision. They streamline claims, improve cash flow, and let us focus on patient care.",
+      "Outsourcing our billing to Right Billing Solutions was the best decision. They streamline claims, improve cash flow, and let us focus on patient care.",
   },
 ];
