@@ -14,10 +14,10 @@ export default function Footer() {
           {/* About Section */}
           <div>
             <h3 className="text-lg font-semibold text-gray-900 mb-4">
-              About Smart Billing Solution
+              About Right Billing Solution
             </h3>
             <p className="text-sm text-gray-600 leading-relaxed">
-              Smart Billing Solution is a leading provider of Revenue 
+              right Billing Solution is a leading provider of Revenue 
               Cycle Management solutions, dedicated to optimizing healthcare 
               billing processes for providers across the United States for over 
               25 years.
@@ -100,7 +100,7 @@ export default function Footer() {
 
         {/* Bottom Bar */}
         <div className="mt-12 pt-6 border-t text-center text-xs text-gray-500">
-          © {new Date().getFullYear()} Smart Billing Solution. All rights reserved.
+          © {new Date().getFullYear()} Right Billing Solution. All rights reserved.
         </div>
 
       </div>
