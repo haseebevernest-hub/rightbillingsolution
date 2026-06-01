@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Smart Billing Solutions",
+  title: "Right Billing Solutions",
   description: "Evernest Marketing.",
 };
 
